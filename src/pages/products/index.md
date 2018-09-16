@@ -10,7 +10,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/chemex.jpg
+    - image: /img/94dbdf25-ebe7-41e3-af61-4fb77ddf9eea.jpeg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
